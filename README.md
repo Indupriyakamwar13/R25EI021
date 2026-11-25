@@ -8,3 +8,8 @@ Hello! I am an engineering student interested in technology and software develop
 - Web Development
 ## Goals
 - Contribute to open source
+
+## Projects
+
+### IPL Ticket Booking App
+Developing a web-based IPL ticket booking application using HTML, CSS, and JavaScript. It allows users to select matches, choose stands, and calculate ticket prices dynamically.
