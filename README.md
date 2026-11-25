@@ -6,3 +6,5 @@ Hello! I am an engineering student interested in technology and software develop
 - Learning Pythongit add README.md
 ## Interests
 - Web Development
+## Goals
+- Contribute to open source
